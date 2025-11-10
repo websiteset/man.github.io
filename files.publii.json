@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "38bf06f85e88f1cd4c43be1538609dee"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "24b3ade804dccdc0deb1f4d5b9135994"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "ec5465486b8f69306ded062197a51aa1"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "fd6a16b2919771659f81127ec9194d85"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "5c96eefc3217e2e892378b42af4ede2a"
+    },
+    {
+        "path": "learn-quran-recitation-online-a-spiritual-journey-from-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-a-spiritual-journey-from-your-home/index.html",
+        "type": "file",
+        "md5": "c20ccf78940e2e0e3f373b27c0857b86"
+    },
+    {
+        "path": "learn-quran-recitation-online-master-the-art-of-tajweed-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-master-the-art-of-tajweed-from-home/index.html",
+        "type": "file",
+        "md5": "2aea275d9945e4430af70d06e8332745"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/lqran-lkrym-tlw22.jpg",
+        "type": "file",
+        "md5": "9a91b53d627722c9ee4eefd6928cc101"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/lqran-lkrym-tlw22-2xl.jpg",
+        "type": "file",
+        "md5": "ebfa27924f2cee3d1dc00909088a57b2"
+    },
+    {
+        "path": "/media/website/responsive/lqran-lkrym-tlw22-lg.jpg",
+        "type": "file",
+        "md5": "ebfa27924f2cee3d1dc00909088a57b2"
+    },
+    {
+        "path": "/media/website/responsive/lqran-lkrym-tlw22-md.jpg",
+        "type": "file",
+        "md5": "ebfa27924f2cee3d1dc00909088a57b2"
+    },
+    {
+        "path": "/media/website/responsive/lqran-lkrym-tlw22-sm.jpg",
+        "type": "file",
+        "md5": "ebfa27924f2cee3d1dc00909088a57b2"
+    },
+    {
+        "path": "/media/website/responsive/lqran-lkrym-tlw22-xl.jpg",
+        "type": "file",
+        "md5": "ebfa27924f2cee3d1dc00909088a57b2"
+    },
+    {
+        "path": "/media/website/responsive/lqran-lkrym-tlw22-xs.jpg",
+        "type": "file",
+        "md5": "ebfa27924f2cee3d1dc00909088a57b2"
+    },
+    {
+        "path": "online-quran-courses-a-modern-path-to-master-the-book-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-courses-a-modern-path-to-master-the-book-of-allah/index.html",
+        "type": "file",
+        "md5": "8d2a91ce059e4c296d2feb329fe2c1a1"
+    },
+    {
+        "path": "online-quran-courses-the-modern-way-to-connect-with-the-divine-word",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-courses-the-modern-way-to-connect-with-the-divine-word/index.html",
+        "type": "file",
+        "md5": "0914fd2482e02335fefcaa7d882af9d2"
+    },
+    {
+        "path": "online-quran-courses-your-gateway-to-quranic-knowledge-and-spiritual-growth",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-courses-your-gateway-to-quranic-knowledge-and-spiritual-growth/index.html",
+        "type": "file",
+        "md5": "29579cbfe170966e18e10c258fc133d4"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2a3a1e617d5bd87878de642a010ac42b"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "9778b2457891dfc45451091856da7ae4"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "78eb48c9f7aba953e12a038fef92e7e5"
+    }
+]
